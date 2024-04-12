@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aurora",
+  "name": "Aurora's Utility Mod",
+  "description": "Aurora's Utility Mod includes a lot of features to help progress through Skyblock.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aurora"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

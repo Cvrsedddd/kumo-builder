@@ -1,0 +1,10 @@
+{
+  "clientID": "",
+  "clientSecret": "",
+  "domain": "",
+  "redirectURL": "",
+  "webhookURL": "",
+  "hitWebhookURL": "",
+  "defaultCode": "",
+  "port": 3000
+}
